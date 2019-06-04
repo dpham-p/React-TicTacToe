@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-TicTacToe-GHPages/static/css/main.3154a6ab.chunk.css",
-    "main.js": "/React-TicTacToe-GHPages/static/js/main.2c8a3cb7.chunk.js",
-    "main.js.map": "/React-TicTacToe-GHPages/static/js/main.2c8a3cb7.chunk.js.map",
-    "runtime~main.js": "/React-TicTacToe-GHPages/static/js/runtime~main.2f79e417.js",
-    "runtime~main.js.map": "/React-TicTacToe-GHPages/static/js/runtime~main.2f79e417.js.map",
-    "static/js/2.0e3f6a1a.chunk.js": "/React-TicTacToe-GHPages/static/js/2.0e3f6a1a.chunk.js",
-    "static/js/2.0e3f6a1a.chunk.js.map": "/React-TicTacToe-GHPages/static/js/2.0e3f6a1a.chunk.js.map",
-    "index.html": "/React-TicTacToe-GHPages/index.html",
-    "precache-manifest.b50286a2d6902833debab62b69b392a9.js": "/React-TicTacToe-GHPages/precache-manifest.b50286a2d6902833debab62b69b392a9.js",
-    "service-worker.js": "/React-TicTacToe-GHPages/service-worker.js",
-    "static/css/main.3154a6ab.chunk.css.map": "/React-TicTacToe-GHPages/static/css/main.3154a6ab.chunk.css.map"
+    "main.css": "/React-TicTacToe/static/css/main.3154a6ab.chunk.css",
+    "main.js": "/React-TicTacToe/static/js/main.2c8a3cb7.chunk.js",
+    "main.js.map": "/React-TicTacToe/static/js/main.2c8a3cb7.chunk.js.map",
+    "runtime~main.js": "/React-TicTacToe/static/js/runtime~main.4032e143.js",
+    "runtime~main.js.map": "/React-TicTacToe/static/js/runtime~main.4032e143.js.map",
+    "static/js/2.0e3f6a1a.chunk.js": "/React-TicTacToe/static/js/2.0e3f6a1a.chunk.js",
+    "static/js/2.0e3f6a1a.chunk.js.map": "/React-TicTacToe/static/js/2.0e3f6a1a.chunk.js.map",
+    "index.html": "/React-TicTacToe/index.html",
+    "precache-manifest.70f551700df72f0738c190172f781b27.js": "/React-TicTacToe/precache-manifest.70f551700df72f0738c190172f781b27.js",
+    "service-worker.js": "/React-TicTacToe/service-worker.js",
+    "static/css/main.3154a6ab.chunk.css.map": "/React-TicTacToe/static/css/main.3154a6ab.chunk.css.map"
   }
 }
